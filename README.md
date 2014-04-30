@@ -9,7 +9,7 @@ To allow any computer user to watch movies easily streaming from torrents, witho
 ### Status
 
 Under development (RC1) for Mac OSX - Windows - Linux.
- 
+
 ### APIs
 
 **Currently used:**
@@ -26,8 +26,8 @@ Under development (RC1) for Mac OSX - Windows - Linux.
 ## Testing it out
 1. Open a Terminal with this project folder.
 2. Run `npm install` in Terminal to include project dependencies.
-3. Copy the [node-webkit application binary](https://s3.amazonaws.com/node-webkit/v0.8.4/node-webkit-v0.8.4-osx-ia32.zip) for OSX 10.7+ to your `/Applications` folder.
-4. Run `/Applications/node-webkit.app/Contents/MacOS/node-webkit .` in Terminal to open up the application.
+3. Copy the [node-webkit application binary](https://s3.amazonaws.com/node-webkit/v0.8.4/node-webkit-v0.8.4-osx-ia32.zip) for OSX 10.7+ to your `/Applications` folder. (Not necessary anymore for this version)
+4. Run `/Applications/node-webkit.app/Contents/MacOS/node-webkit .` in Terminal to open up the application. (Not necessary anymore for this version) 
 5. Update `js/vendor/config.js` with your [themoviedb.org](http://themoviedb.org) API key. Pst. if you need one contact us.
 
 ## Any problem?
